@@ -17,5 +17,4 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width ="20px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/>
          
-
-          
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WookiesRpeople2)](https://github.com/anuraghazra/github-readme-stats)

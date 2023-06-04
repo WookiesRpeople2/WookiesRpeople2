@@ -16,6 +16,5 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width ="20px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/>
-          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WookiesRpeople2&show_icons=true&theme=radical)
-         
- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WookiesRpeople2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WookiesRpeople2)](https://github.com/anuraghazra/github-readme-stats)

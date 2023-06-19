@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working : personal project🥋
-- 🔨 I’m currently learning : [expressjs](https://expressjs.com), [nodejs](https://nodejs.org), [TensorFlow](https://www.tensorflow.org/), [ReactRouter](https://reactrouter.com)
+- 🔨 I’m currently learning : [Assembly](https://en.wikipedia.org/wiki/Assembly_language), [Ruby](https://www.ruby-lang.org/en/), [Rails](https://rubyonrails.org/)
 - 💬 Ask me about : anything
 - 😄 Pronouns : He/Him
 - **Languages** : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px" />
@@ -16,5 +16,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width ="20px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="20px"/>
+          
 
 [![WookiesRpeople2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WookiesRpeople2)](https://github.com/anuraghazra/github-readme-stats)

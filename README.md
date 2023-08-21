@@ -1,7 +1,7 @@
 ### About me ✨
 <h1 align="center">I am a passionate devloper always looking to improve and Colaborate on projects⛳</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&pause=500&color=F7F7F7&background=FFFFFF00&multiline=true&repeat=false&width=759&height=250&lines=Hi+and+welcome+to+my+GitHub+profile+;I+am+passionate+about%3A;-+Development+;-+Cybersecurity+;+-+pen-testing+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&pause=500&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=350&lines=Hi+and+welcome+to+my+GitHub+profile+;I+am+passionate+about%3A;%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94;-+Development;-+Cybersecurity+;-+Pen-testing%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 

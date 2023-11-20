@@ -1,5 +1,5 @@
 ### About me ✨
-# Hi and welcome to my GitHub profile,<br/>I am a passionate developper and always ready to learn new things
+# Hi and welcome to my GitHub profile,<br/>I am a passionate developper <br/>and always ready to learn new things
 
 - 🔭 I’m currently working : personal project🥋
 - 💬 Ask me about : anything

@@ -1,5 +1,5 @@
 ### About me ✨
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=3000&pause=100&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Hi+and+welcome+to+my+GitHub+profile;Super+passionnante+developer+and+always+ready+to+learn+new+things)](https://git.io/typing-svg)
+# Hi and welcome to my GitHub profile,<br/>I am a passionate developper and always ready to learn new things
 
 - 🔭 I’m currently working : personal project🥋
 - 💬 Ask me about : anything

@@ -1,8 +1,7 @@
 ### About me ✨
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=3000&pause=100&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=300&lines=Hi+and+welcome+to+my+GitHub+profile+;I+am+passionate+about%3A;%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94;-+Development+🏗️;-+Cybersecurity+🤖;-+Pen-testing+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=3000&pause=100&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=300&lines=Hi+and+welcome+to+my+GitHub+profile+;I am a super pasionate devlopper and qlways rready to learn new things😀)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working : personal project🥋
-- 🔨 I’m currently learning : [Assembly](https://en.wikipedia.org/wiki/Assembly_language), [Ruby](https://www.ruby-lang.org/en/), [Rails](https://rubyonrails.org/)
 - 💬 Ask me about : anything
 - 😄 Pronouns : He/Him
 - **Languages** : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px" />

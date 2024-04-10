@@ -17,4 +17,4 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="20px"/>
           
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WookiesRpeople2&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WookiesRpeople2&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)

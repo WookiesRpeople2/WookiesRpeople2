@@ -16,9 +16,6 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width ="40px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="40px"/>
-          <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" style="background-color: black;">
-            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="white">ASM</text>
-          </svg>
 
 </div>
           

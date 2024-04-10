@@ -15,10 +15,10 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width ="40px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="40px"/>
-            <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="black">ASM</text>
-                        </svg>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="40px"/>
+            <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg" viewBox="40 40 40 40">
+              <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="black">ASM</text>
+            </svg>
 </svg>
 
 </div>

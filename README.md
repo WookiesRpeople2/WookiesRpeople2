@@ -17,4 +17,4 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="20px"/>
           
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WookiesRpeople2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WookiesRpeople2&hide_progress=true)

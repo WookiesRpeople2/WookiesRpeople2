@@ -17,4 +17,4 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="20px"/>
           
 
-[WakaTime: ](https://wakatime.com/@WookiesRpeople2)
+WakaTime: [](https://wakatime.com/@WookiesRpeople2)

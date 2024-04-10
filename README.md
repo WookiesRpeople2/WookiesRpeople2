@@ -17,4 +17,4 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="20px"/>
           
 
-[![WookiesRpeople2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WookiesRpeople2)](https://github.com/anuraghazra/github-readme-stats)
+[WakaTime: ](https://wakatime.com/@WookiesRpeople2)

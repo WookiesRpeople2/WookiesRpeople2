@@ -20,7 +20,10 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-line.svg" width="40px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original-wordmark.svg" width="40px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px"/>
-                 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40px"/>
+          
+          
 </div>
           
 

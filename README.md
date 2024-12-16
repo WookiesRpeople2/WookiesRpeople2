@@ -20,7 +20,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="40px"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-line.svg" width="40px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-plain.svg" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original-wordmark.svg" width="40px"/>       
 </div>
           

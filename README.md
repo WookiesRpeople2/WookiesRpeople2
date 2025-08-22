@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px"/>
-  <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg" width="60px"/>
+  <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg" width="80px"/>
   <img src="https://hono.dev/images/logo.svg" width="40px"/>
 </p>
 

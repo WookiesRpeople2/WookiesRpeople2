@@ -4,6 +4,8 @@
 - 🔭 I’m currently working : personal project🥋
 - 💬 Ask me about : anything
 - 😄 Pronouns : He/Him
+
+### 🖥️ Programming Languages   
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
   <img src="https://icongr.am/devicon/c-original.svg" width="40px"/>

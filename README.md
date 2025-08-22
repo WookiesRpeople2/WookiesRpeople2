@@ -8,6 +8,7 @@
 ### 🖥️ Programming Languages   
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40px"/>        
   <img src="https://icongr.am/devicon/c-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40px"/>
   <img src="https://icongr.am/devicon/csharp-original.svg" width="40px"/>

@@ -56,6 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-line.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" width="40px"/>
 </p>
           
 ---

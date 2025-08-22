@@ -27,8 +27,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px"/>
-  <img src="https://brandfetch.com/jakarta.ee?view=library&library=default&collection=logos&asset=idY5mkJYIk&utm_source=https%253A%252F%252Fbrandfetch.com%252Fjakarta.ee&utm_medium=copyAction&utm_campaign=brandPageReferral" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jakarta/jakarta-original.svg" width="40px"/>
+  <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg" width="40px"/>
+  <img src="https://hono.dev/images/logo.svg" width="40px"/>
 </p>
 
 ---

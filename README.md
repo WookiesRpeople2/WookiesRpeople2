@@ -73,6 +73,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" width="40px"/>
                             
 </p>
+
+![My stats](https://github-readme-stats.vercel.app/api?username=wookiesrpeople2&show_icons=true&theme=gruvbox)
+
           
 ---
 

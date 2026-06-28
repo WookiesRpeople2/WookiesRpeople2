@@ -8,8 +8,6 @@
 ### My stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=wookiesrpeople2&show_icons=true&theme=gruvbox)
 
----
-
 ### 🖥️ Programming Languages   
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/8760/8760206.png" width="40px"/>

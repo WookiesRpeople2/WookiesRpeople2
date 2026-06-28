@@ -5,8 +5,10 @@
 - 💬 Ask me about : anything
 - 😄 Pronouns : He/Him
 
-# My stats
+### My stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=wookiesrpeople2&show_icons=true&theme=gruvbox)
+
+---
 
 ### 🖥️ Programming Languages   
 <p align="left">

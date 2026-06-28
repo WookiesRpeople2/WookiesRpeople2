@@ -5,6 +5,9 @@
 - 💬 Ask me about : anything
 - 😄 Pronouns : He/Him
 
+# My stats
+![My stats](https://github-readme-stats.vercel.app/api?username=wookiesrpeople2&show_icons=true&theme=gruvbox)
+
 ### 🖥️ Programming Languages   
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/8760/8760206.png" width="40px"/>
@@ -73,9 +76,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" width="40px"/>
                             
 </p>
-
-![My stats](https://github-readme-stats.vercel.app/api?username=wookiesrpeople2&show_icons=true&theme=gruvbox)
-
-          
+ 
 ---
 

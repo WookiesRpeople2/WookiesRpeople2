@@ -2,6 +2,7 @@
 # Hi and welcome to my GitHub profile,<br/>I am a full stack developper <br/>always ready to learn new things
 
 - 🔭 I’m currently working : personal project🥋
+- 💻 I have been coding for 7 years
 - 💬 Ask me about : anything
 - 😄 Pronouns : He/Him
 

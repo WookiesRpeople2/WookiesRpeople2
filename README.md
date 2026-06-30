@@ -7,7 +7,7 @@
 - 😄 Pronouns : He/Him
 
 ### My stats
-![My stats](https://github-readme-stats.vercel.app/api?username=wookiesrpeople2&show_icons=true&theme=gruvbox)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wookiesrpeople2)](https://github.com/stats-organization/github-stats-extended)
 
 ### 🖥️ Programming Languages   
 <p align="left">
